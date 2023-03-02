@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Arrow",
+        "image":"images/img1.jpg",
+        "id": "0001",
+        "description": "Action game",
+        "price": "199"
+    },
+    {
+        "title": "Stars war",
+        "image":"images/bg2.jpg",   
+        "id": "0002",
+        "description": "Adventure game.",
+        "price": "59"
+    },
+    {
+        "title": "Metroid Prime Remastered" ,
+        "image":"images/bg3.jpg",   
+        "id": "0003",
+        "description": "Adventure video game published by Nintendo,",
+        "price": "99"
+    },
+    {
+        "title": "The Moon Hell",
+        "image":"images/bg4.jpg",   
+        "id": "0004",
+        "description": "shooter video game with High quality graphic experience.",
+        "price": "79"
+    },
+    {
+        "title": "Moto Racing",
+        "image":"images/bg5.jpg",   
+        "id": "0005",
+        "description": "MotoRacing game with High quality graphic experience.",
+        "price": "19"
+    },
+    {
+        "title": "Around the world",
+        "image":"images/bg6.jpg",   
+        "id": "0006",
+        "description": "Board game",
+        "price": "77"
+    },
+    {
+        "title": "Rubic cube",
+        "image":"images/bg7.jpg",   
+        "id": "0007",
+        "description": "Brain booster",
+        "price": "9"
+    },
+    {
+        "title": "Games of throne",
+        "image":"images/bg8.jpg",   
+        "id": "0008",
+        "description": "Adventure,thrill game",
+        "price": "103"
+    },
+    {
+        "title": "Price of persia",
+        "image":"images/bg10.jpeg",   
+        "id": "0009",
+        "description": "Adventure game.",
+        "price": "39"
+    },
+    {
+        "title": "Naruto-Ultimate ninja strom",
+        "image":"images/bg11.jpg",   
+        "id": "00010",
+        "description": "Thrill game",
+        "price": "19"
+    }
+    
+]
